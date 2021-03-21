@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\bin\Debug\netcoreapp3.1\Class04_Static.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\bin\Debug\netcoreapp3.1\Class04_Static.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\bin\Debug\netcoreapp3.1\Class04_Static.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\bin\Debug\netcoreapp3.1\Class04_Static.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\bin\Debug\netcoreapp3.1\Class04_Static.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\bin\Debug\netcoreapp3.1\Class04_Static.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\obj\Debug\netcoreapp3.1\Class04_Static.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\obj\Debug\netcoreapp3.1\Class04_Static.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\obj\Debug\netcoreapp3.1\Class04_Static.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\obj\Debug\netcoreapp3.1\Class04_Static.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\obj\Debug\netcoreapp3.1\Class04_Static.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\obj\Debug\netcoreapp3.1\Class04_Static.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Class04_Static\Class04_Static\obj\Debug\netcoreapp3.1\Class04_Static.genruntimeconfig.cache

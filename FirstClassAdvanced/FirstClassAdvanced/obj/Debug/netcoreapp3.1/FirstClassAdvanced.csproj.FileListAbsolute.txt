@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\bin\Debug\netcoreapp3.1\FirstClassAdvanced.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\bin\Debug\netcoreapp3.1\FirstClassAdvanced.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\bin\Debug\netcoreapp3.1\FirstClassAdvanced.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\bin\Debug\netcoreapp3.1\FirstClassAdvanced.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\bin\Debug\netcoreapp3.1\FirstClassAdvanced.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\bin\Debug\netcoreapp3.1\FirstClassAdvanced.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\obj\Debug\netcoreapp3.1\FirstClassAdvanced.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\obj\Debug\netcoreapp3.1\FirstClassAdvanced.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\obj\Debug\netcoreapp3.1\FirstClassAdvanced.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\obj\Debug\netcoreapp3.1\FirstClassAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\obj\Debug\netcoreapp3.1\FirstClassAdvanced.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\obj\Debug\netcoreapp3.1\FirstClassAdvanced.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\FirstClassAdvanced\FirstClassAdvanced\obj\Debug\netcoreapp3.1\FirstClassAdvanced.genruntimeconfig.cache

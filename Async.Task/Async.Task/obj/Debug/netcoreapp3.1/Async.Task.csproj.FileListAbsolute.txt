@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\bin\Debug\netcoreapp3.1\Async.Task.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\bin\Debug\netcoreapp3.1\Async.Task.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\bin\Debug\netcoreapp3.1\Async.Task.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\bin\Debug\netcoreapp3.1\Async.Task.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\bin\Debug\netcoreapp3.1\Async.Task.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\bin\Debug\netcoreapp3.1\Async.Task.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\obj\Debug\netcoreapp3.1\Async.Task.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\obj\Debug\netcoreapp3.1\Async.Task.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\obj\Debug\netcoreapp3.1\Async.Task.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\obj\Debug\netcoreapp3.1\Async.Task.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\obj\Debug\netcoreapp3.1\Async.Task.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\obj\Debug\netcoreapp3.1\Async.Task.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Async.Task\Async.Task\obj\Debug\netcoreapp3.1\Async.Task.genruntimeconfig.cache

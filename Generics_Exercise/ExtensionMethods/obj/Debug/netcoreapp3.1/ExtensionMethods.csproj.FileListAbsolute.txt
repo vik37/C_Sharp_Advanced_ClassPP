@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache

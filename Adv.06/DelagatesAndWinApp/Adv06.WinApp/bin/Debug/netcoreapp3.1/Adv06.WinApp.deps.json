@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Adv06.WinApp/1.0.0": {
+        "dependencies": {
+          "Adv.06.Delegates": "1.0.0"
+        },
+        "runtime": {
+          "Adv06.WinApp.dll": {}
+        }
+      },
+      "Adv.06.Delegates/1.0.0": {
+        "runtime": {
+          "Adv.06.Delegates.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adv06.WinApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Adv.06.Delegates/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\bin\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\bin\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\bin\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\bin\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\bin\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\bin\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\obj\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\obj\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\obj\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\obj\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\obj\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\obj\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\AsyncProgramming.AsyncAwait\obj\Debug\netcoreapp3.1\AsyncProgramming.AsyncAwait.genruntimeconfig.cache

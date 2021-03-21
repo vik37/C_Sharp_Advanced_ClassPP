@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\bin\Debug\netcoreapp3.1\Generics_Exercise.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\bin\Debug\netcoreapp3.1\Generics_Exercise.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\bin\Debug\netcoreapp3.1\Generics_Exercise.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\bin\Debug\netcoreapp3.1\Generics_Exercise.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\bin\Debug\netcoreapp3.1\Generics_Exercise.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\bin\Debug\netcoreapp3.1\Generics_Exercise.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\obj\Debug\netcoreapp3.1\Generics_Exercise.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\obj\Debug\netcoreapp3.1\Generics_Exercise.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\obj\Debug\netcoreapp3.1\Generics_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\obj\Debug\netcoreapp3.1\Generics_Exercise.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\obj\Debug\netcoreapp3.1\Generics_Exercise.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics_Exercise\Generics_Exercise\obj\Debug\netcoreapp3.1\Generics_Exercise.genruntimeconfig.cache

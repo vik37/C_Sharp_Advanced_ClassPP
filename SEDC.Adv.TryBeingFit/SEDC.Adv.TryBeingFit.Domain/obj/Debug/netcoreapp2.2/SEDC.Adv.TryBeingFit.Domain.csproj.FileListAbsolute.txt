@@ -1,0 +1,9 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.Domain\bin\Debug\netcoreapp2.2\SEDC.Adv.TryBeingFit.Domain.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.Domain\bin\Debug\netcoreapp2.2\SEDC.Adv.TryBeingFit.Domain.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.Domain\bin\Debug\netcoreapp2.2\SEDC.Adv.TryBeingFit.Domain.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.Domain\obj\Debug\netcoreapp2.2\SEDC.Adv.TryBeingFit.Domain.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.Domain\obj\Debug\netcoreapp2.2\SEDC.Adv.TryBeingFit.Domain.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.Domain\obj\Debug\netcoreapp2.2\SEDC.Adv.TryBeingFit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.Domain\obj\Debug\netcoreapp2.2\SEDC.Adv.TryBeingFit.Domain.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.Domain\obj\Debug\netcoreapp2.2\SEDC.Adv.TryBeingFit.Domain.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.Domain\obj\Debug\netcoreapp2.2\SEDC.Adv.TryBeingFit.Domain.csprojAssemblyReference.cache

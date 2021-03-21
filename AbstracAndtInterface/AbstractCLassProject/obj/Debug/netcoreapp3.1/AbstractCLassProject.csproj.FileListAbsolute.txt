@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\bin\Debug\netcoreapp3.1\AbstractCLassProject.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\bin\Debug\netcoreapp3.1\AbstractCLassProject.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\bin\Debug\netcoreapp3.1\AbstractCLassProject.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\bin\Debug\netcoreapp3.1\AbstractCLassProject.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\bin\Debug\netcoreapp3.1\AbstractCLassProject.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\bin\Debug\netcoreapp3.1\AbstractCLassProject.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\obj\Debug\netcoreapp3.1\AbstractCLassProject.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\obj\Debug\netcoreapp3.1\AbstractCLassProject.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\obj\Debug\netcoreapp3.1\AbstractCLassProject.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\obj\Debug\netcoreapp3.1\AbstractCLassProject.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\obj\Debug\netcoreapp3.1\AbstractCLassProject.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstractCLassProject\obj\Debug\netcoreapp3.1\AbstractCLassProject.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\bin\Debug\netcoreapp3.1\SEDC.IO.Logger.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\bin\Debug\netcoreapp3.1\SEDC.IO.Logger.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\bin\Debug\netcoreapp3.1\SEDC.IO.Logger.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\bin\Debug\netcoreapp3.1\SEDC.IO.Logger.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\bin\Debug\netcoreapp3.1\SEDC.IO.Logger.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\bin\Debug\netcoreapp3.1\SEDC.IO.Logger.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\obj\Debug\netcoreapp3.1\SEDC.IO.Logger.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\obj\Debug\netcoreapp3.1\SEDC.IO.Logger.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\obj\Debug\netcoreapp3.1\SEDC.IO.Logger.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\obj\Debug\netcoreapp3.1\SEDC.IO.Logger.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\obj\Debug\netcoreapp3.1\SEDC.IO.Logger.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\obj\Debug\netcoreapp3.1\SEDC.IO.Logger.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.Logger\obj\Debug\netcoreapp3.1\SEDC.IO.Logger.genruntimeconfig.cache

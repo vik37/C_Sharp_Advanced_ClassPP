@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\bin\Debug\netcoreapp3.1\Something.InputOutput.Files.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\bin\Debug\netcoreapp3.1\Something.InputOutput.Files.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\bin\Debug\netcoreapp3.1\Something.InputOutput.Files.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\bin\Debug\netcoreapp3.1\Something.InputOutput.Files.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\bin\Debug\netcoreapp3.1\Something.InputOutput.Files.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\bin\Debug\netcoreapp3.1\Something.InputOutput.Files.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\obj\Debug\netcoreapp3.1\Something.InputOutput.Files.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\obj\Debug\netcoreapp3.1\Something.InputOutput.Files.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\obj\Debug\netcoreapp3.1\Something.InputOutput.Files.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\obj\Debug\netcoreapp3.1\Something.InputOutput.Files.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\obj\Debug\netcoreapp3.1\Something.InputOutput.Files.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\obj\Debug\netcoreapp3.1\Something.InputOutput.Files.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\Something.InputOutput.Files\obj\Debug\netcoreapp3.1\Something.InputOutput.Files.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\bin\Debug\netcoreapp3.1\AbstracAndtInterface.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\bin\Debug\netcoreapp3.1\AbstracAndtInterface.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\bin\Debug\netcoreapp3.1\AbstracAndtInterface.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\bin\Debug\netcoreapp3.1\AbstracAndtInterface.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\bin\Debug\netcoreapp3.1\AbstracAndtInterface.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\bin\Debug\netcoreapp3.1\AbstracAndtInterface.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\obj\Debug\netcoreapp3.1\AbstracAndtInterface.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\obj\Debug\netcoreapp3.1\AbstracAndtInterface.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\obj\Debug\netcoreapp3.1\AbstracAndtInterface.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\obj\Debug\netcoreapp3.1\AbstracAndtInterface.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\obj\Debug\netcoreapp3.1\AbstracAndtInterface.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\obj\Debug\netcoreapp3.1\AbstracAndtInterface.genruntimeconfig.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AbstracAndtInterface\AbstracAndtInterface\obj\Debug\netcoreapp3.1\AbstracAndtInterface.csprojAssemblyReference.cache

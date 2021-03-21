@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\bin\Debug\netcoreapp3.1\StreamRead.Exercise.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\bin\Debug\netcoreapp3.1\StreamRead.Exercise.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\bin\Debug\netcoreapp3.1\StreamRead.Exercise.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\bin\Debug\netcoreapp3.1\StreamRead.Exercise.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\bin\Debug\netcoreapp3.1\StreamRead.Exercise.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\bin\Debug\netcoreapp3.1\StreamRead.Exercise.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\obj\Debug\netcoreapp3.1\StreamRead.Exercise.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\obj\Debug\netcoreapp3.1\StreamRead.Exercise.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\obj\Debug\netcoreapp3.1\StreamRead.Exercise.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\obj\Debug\netcoreapp3.1\StreamRead.Exercise.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\obj\Debug\netcoreapp3.1\StreamRead.Exercise.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\obj\Debug\netcoreapp3.1\StreamRead.Exercise.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Exrecise.File.Io\StreamRead.Exercise\obj\Debug\netcoreapp3.1\StreamRead.Exercise.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\bin\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\bin\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\bin\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\bin\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\bin\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\bin\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\obj\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\obj\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\obj\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\obj\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\obj\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SecondAsyncAwaiteExemple\obj\Debug\netcoreapp3.1\SecondAsyncAwaiteExemple.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\obj\Debug\netcoreapp3.1\SEDC.TryBeingFit .Services.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\obj\Debug\netcoreapp3.1\SEDC.TryBeingFit .Services.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\obj\Debug\netcoreapp3.1\SEDC.TryBeingFit .Services.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\obj\Debug\netcoreapp3.1\SEDC.TryBeingFit .Services.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\bin\Debug\netcoreapp3.1\SEDC.TryBeingFit .Services.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\bin\Debug\netcoreapp3.1\SEDC.TryBeingFit .Services.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\bin\Debug\netcoreapp3.1\SEDC.TryBeingFit .Services.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\bin\Debug\netcoreapp3.1\SEDC.TryBeingFit .Domain.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\bin\Debug\netcoreapp3.1\SEDC.TryBeingFit .Domain.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\obj\Debug\netcoreapp3.1\SEDC.TryBeingFit .Services.csproj.CopyComplete
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\obj\Debug\netcoreapp3.1\SEDC.TryBeingFit .Services.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Sedc.TryBeingFit\SEDC.TryBeingFit .Services\obj\Debug\netcoreapp3.1\SEDC.TryBeingFit .Services.pdb

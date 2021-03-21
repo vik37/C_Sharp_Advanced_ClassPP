@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\obj\Debug\netcoreapp3.1\Anonimus.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\obj\Debug\netcoreapp3.1\Anonimus.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\obj\Debug\netcoreapp3.1\Anonimus.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\obj\Debug\netcoreapp3.1\Anonimus.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\bin\Debug\netcoreapp3.1\Anonimus.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\bin\Debug\netcoreapp3.1\Anonimus.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\bin\Debug\netcoreapp3.1\Anonimus.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\bin\Debug\netcoreapp3.1\Anonimus.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\bin\Debug\netcoreapp3.1\Anonimus.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\bin\Debug\netcoreapp3.1\Anonimus.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\obj\Debug\netcoreapp3.1\Anonimus.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\obj\Debug\netcoreapp3.1\Anonimus.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\Anonimus\obj\Debug\netcoreapp3.1\Anonimus.genruntimeconfig.cache

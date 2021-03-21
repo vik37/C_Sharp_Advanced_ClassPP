@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\bin\Debug\netcoreapp3.1\FileHandler.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\bin\Debug\netcoreapp3.1\FileHandler.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\bin\Debug\netcoreapp3.1\FileHandler.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\bin\Debug\netcoreapp3.1\FileHandler.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\bin\Debug\netcoreapp3.1\FileHandler.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\bin\Debug\netcoreapp3.1\FileHandler.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\obj\Debug\netcoreapp3.1\FileHandler.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\obj\Debug\netcoreapp3.1\FileHandler.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\obj\Debug\netcoreapp3.1\FileHandler.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\obj\Debug\netcoreapp3.1\FileHandler.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\obj\Debug\netcoreapp3.1\FileHandler.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\obj\Debug\netcoreapp3.1\FileHandler.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\AsyncPrograming\FileHandler\obj\Debug\netcoreapp3.1\FileHandler.genruntimeconfig.cache

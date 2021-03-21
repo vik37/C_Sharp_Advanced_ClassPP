@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\bin\Debug\netcoreapp3.1\HomeWorkGenerics.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\bin\Debug\netcoreapp3.1\HomeWorkGenerics.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\bin\Debug\netcoreapp3.1\HomeWorkGenerics.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\bin\Debug\netcoreapp3.1\HomeWorkGenerics.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\bin\Debug\netcoreapp3.1\HomeWorkGenerics.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\bin\Debug\netcoreapp3.1\HomeWorkGenerics.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\obj\Debug\netcoreapp3.1\HomeWorkGenerics.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\obj\Debug\netcoreapp3.1\HomeWorkGenerics.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\obj\Debug\netcoreapp3.1\HomeWorkGenerics.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\obj\Debug\netcoreapp3.1\HomeWorkGenerics.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\obj\Debug\netcoreapp3.1\HomeWorkGenerics.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\obj\Debug\netcoreapp3.1\HomeWorkGenerics.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWorkGenerics\HomeWorkGenerics\obj\Debug\netcoreapp3.1\HomeWorkGenerics.genruntimeconfig.cache

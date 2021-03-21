@@ -1,0 +1,4 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.App\obj\Debug\netcoreapp3.1\SEDC.Adv.TryBeingFit.App.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.App\obj\Debug\netcoreapp3.1\SEDC.Adv.TryBeingFit.App.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.App\obj\Debug\netcoreapp3.1\SEDC.Adv.TryBeingFit.App.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Adv.TryBeingFit\SEDC.Adv.TryBeingFit.App\obj\Debug\netcoreapp3.1\SEDC.Adv.TryBeingFit.App.csproj.CoreCompileInputs.cache

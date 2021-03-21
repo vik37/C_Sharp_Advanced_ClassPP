@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\bin\Debug\netcoreapp3.1\LINQ.Advanced.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\bin\Debug\netcoreapp3.1\LINQ.Advanced.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\bin\Debug\netcoreapp3.1\LINQ.Advanced.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\bin\Debug\netcoreapp3.1\LINQ.Advanced.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\bin\Debug\netcoreapp3.1\LINQ.Advanced.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\bin\Debug\netcoreapp3.1\LINQ.Advanced.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\obj\Debug\netcoreapp3.1\LINQ.Advanced.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\obj\Debug\netcoreapp3.1\LINQ.Advanced.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\obj\Debug\netcoreapp3.1\LINQ.Advanced.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\obj\Debug\netcoreapp3.1\LINQ.Advanced.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\obj\Debug\netcoreapp3.1\LINQ.Advanced.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\obj\Debug\netcoreapp3.1\LINQ.Advanced.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\AnonimusFuncAndLinq\LINQ.Advanced\obj\Debug\netcoreapp3.1\LINQ.Advanced.genruntimeconfig.cache

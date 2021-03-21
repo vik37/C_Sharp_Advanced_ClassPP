@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "26kfpzGk01Ec+eGingGYUQGShRVFqC4nCjcuHSjPR3zoqXrq48AilB747rskTK6HOfjK4B89i/7BgPU4t3/6eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\source\\repos\\cSharpAdvanced\\SEDC.CLass11.SerializationDeserialization\\SEDC.CLass11.SerializationDeserialization\\SEDC.CLass11.SerializationDeserialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

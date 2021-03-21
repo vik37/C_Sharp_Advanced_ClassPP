@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\bin\Debug\netcoreapp3.1\Attributes.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\bin\Debug\netcoreapp3.1\Attributes.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\bin\Debug\netcoreapp3.1\Attributes.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\bin\Debug\netcoreapp3.1\Attributes.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\bin\Debug\netcoreapp3.1\Attributes.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\bin\Debug\netcoreapp3.1\Attributes.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\obj\Debug\netcoreapp3.1\Attributes.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\obj\Debug\netcoreapp3.1\Attributes.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\obj\Debug\netcoreapp3.1\Attributes.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\obj\Debug\netcoreapp3.1\Attributes.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\obj\Debug\netcoreapp3.1\Attributes.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\Attributes\obj\Debug\netcoreapp3.1\Attributes.genruntimeconfig.cache

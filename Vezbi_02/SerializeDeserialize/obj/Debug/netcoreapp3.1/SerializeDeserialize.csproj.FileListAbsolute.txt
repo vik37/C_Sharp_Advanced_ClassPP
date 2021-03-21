@@ -1,0 +1,15 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\bin\Debug\netcoreapp3.1\SerializeDeserialize.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\obj\Debug\netcoreapp3.1\SerializeDeserialize.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\obj\Debug\netcoreapp3.1\SerializeDeserialize.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\obj\Debug\netcoreapp3.1\SerializeDeserialize.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\bin\Debug\netcoreapp3.1\SerializeDeserialize.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\bin\Debug\netcoreapp3.1\SerializeDeserialize.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\bin\Debug\netcoreapp3.1\SerializeDeserialize.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\bin\Debug\netcoreapp3.1\SerializeDeserialize.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\bin\Debug\netcoreapp3.1\SerializeDeserialize.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\obj\Debug\netcoreapp3.1\SerializeDeserialize.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\obj\Debug\netcoreapp3.1\SerializeDeserialize.csproj.CopyComplete
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\obj\Debug\netcoreapp3.1\SerializeDeserialize.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\obj\Debug\netcoreapp3.1\SerializeDeserialize.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Vezbi_02\SerializeDeserialize\obj\Debug\netcoreapp3.1\SerializeDeserialize.genruntimeconfig.cache

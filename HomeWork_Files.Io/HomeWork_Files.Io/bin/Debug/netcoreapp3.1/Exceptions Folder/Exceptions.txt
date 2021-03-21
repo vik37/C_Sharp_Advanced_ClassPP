@@ -1,0 +1,4 @@
+      at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Number.ParseInt32(ReadOnlySpan`1 value, NumberStyles styles, NumberFormatInfo info)
+   at System.Int32.Parse(String s)
+   at HomeWork_Files.Io.Servicies.Calculate.CalculateTwoNums(String num1, String num2) in C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\Servicies\Calculate.cs:line 18

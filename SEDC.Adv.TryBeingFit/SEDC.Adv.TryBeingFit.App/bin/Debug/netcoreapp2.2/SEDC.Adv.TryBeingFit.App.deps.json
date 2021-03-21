@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "SEDC.Adv.TryBeingFit.App/1.0.0": {
+        "dependencies": {
+          "SEDC.Adv.TryBeingFit.Domain": "1.0.0",
+          "SEDC.Adv.TryBeingFit.Services": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Adv.TryBeingFit.App.dll": {}
+        }
+      },
+      "SEDC.Adv.TryBeingFit.Domain/1.0.0": {
+        "runtime": {
+          "SEDC.Adv.TryBeingFit.Domain.dll": {}
+        }
+      },
+      "SEDC.Adv.TryBeingFit.Services/1.0.0": {
+        "dependencies": {
+          "SEDC.Adv.TryBeingFit.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Adv.TryBeingFit.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Adv.TryBeingFit.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Adv.TryBeingFit.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Adv.TryBeingFit.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

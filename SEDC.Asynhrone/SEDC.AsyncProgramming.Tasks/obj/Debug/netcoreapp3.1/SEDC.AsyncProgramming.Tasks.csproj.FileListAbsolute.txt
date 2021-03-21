@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\bin\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\bin\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\bin\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\bin\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\bin\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\bin\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\obj\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\obj\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\obj\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\obj\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\obj\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\obj\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Asynhrone\SEDC.AsyncProgramming.Tasks\obj\Debug\netcoreapp3.1\SEDC.AsyncProgramming.Tasks.genruntimeconfig.cache

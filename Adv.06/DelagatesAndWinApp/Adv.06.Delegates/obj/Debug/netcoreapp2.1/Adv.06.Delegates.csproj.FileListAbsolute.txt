@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\bin\Debug\netcoreapp2.1\Adv.06.Delegates.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\bin\Debug\netcoreapp2.1\Adv.06.Delegates.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\bin\Debug\netcoreapp2.1\Adv.06.Delegates.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\bin\Debug\netcoreapp2.1\Adv.06.Delegates.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\bin\Debug\netcoreapp2.1\Adv.06.Delegates.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\obj\Debug\netcoreapp2.1\Adv.06.Delegates.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\obj\Debug\netcoreapp2.1\Adv.06.Delegates.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\obj\Debug\netcoreapp2.1\Adv.06.Delegates.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\obj\Debug\netcoreapp2.1\Adv.06.Delegates.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\obj\Debug\netcoreapp2.1\Adv.06.Delegates.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\obj\Debug\netcoreapp2.1\Adv.06.Delegates.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Adv.06\DelagatesAndWinApp\Adv.06.Delegates\obj\Debug\netcoreapp2.1\Adv.06.Delegates.genruntimeconfig.cache

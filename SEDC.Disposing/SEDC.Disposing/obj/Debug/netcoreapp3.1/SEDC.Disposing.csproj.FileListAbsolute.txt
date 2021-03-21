@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\bin\Debug\netcoreapp3.1\SEDC.Disposing.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\bin\Debug\netcoreapp3.1\SEDC.Disposing.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\bin\Debug\netcoreapp3.1\SEDC.Disposing.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\bin\Debug\netcoreapp3.1\SEDC.Disposing.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\bin\Debug\netcoreapp3.1\SEDC.Disposing.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\bin\Debug\netcoreapp3.1\SEDC.Disposing.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\obj\Debug\netcoreapp3.1\SEDC.Disposing.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\obj\Debug\netcoreapp3.1\SEDC.Disposing.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\obj\Debug\netcoreapp3.1\SEDC.Disposing.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\obj\Debug\netcoreapp3.1\SEDC.Disposing.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\obj\Debug\netcoreapp3.1\SEDC.Disposing.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\obj\Debug\netcoreapp3.1\SEDC.Disposing.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.Disposing\SEDC.Disposing\obj\Debug\netcoreapp3.1\SEDC.Disposing.genruntimeconfig.cache

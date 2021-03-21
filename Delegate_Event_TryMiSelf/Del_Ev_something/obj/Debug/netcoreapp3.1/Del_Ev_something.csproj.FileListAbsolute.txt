@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\bin\Debug\netcoreapp3.1\Del_Ev_something.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\bin\Debug\netcoreapp3.1\Del_Ev_something.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\bin\Debug\netcoreapp3.1\Del_Ev_something.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\bin\Debug\netcoreapp3.1\Del_Ev_something.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\bin\Debug\netcoreapp3.1\Del_Ev_something.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\bin\Debug\netcoreapp3.1\Del_Ev_something.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\obj\Debug\netcoreapp3.1\Del_Ev_something.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\obj\Debug\netcoreapp3.1\Del_Ev_something.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\obj\Debug\netcoreapp3.1\Del_Ev_something.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\obj\Debug\netcoreapp3.1\Del_Ev_something.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\obj\Debug\netcoreapp3.1\Del_Ev_something.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Event_TryMiSelf\Del_Ev_something\obj\Debug\netcoreapp3.1\Del_Ev_something.genruntimeconfig.cache

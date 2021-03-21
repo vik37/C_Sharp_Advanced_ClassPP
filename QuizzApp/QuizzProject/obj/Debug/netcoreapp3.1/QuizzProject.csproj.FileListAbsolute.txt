@@ -1,0 +1,16 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\bin\Debug\netcoreapp3.1\QuizzProject.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\bin\Debug\netcoreapp3.1\QuizzProject.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\bin\Debug\netcoreapp3.1\QuizzProject.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\bin\Debug\netcoreapp3.1\QuizzProject.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\bin\Debug\netcoreapp3.1\QuizzProject.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\bin\Debug\netcoreapp3.1\QuizzProject.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\obj\Debug\netcoreapp3.1\QuizzProject.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\obj\Debug\netcoreapp3.1\QuizzProject.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\obj\Debug\netcoreapp3.1\QuizzProject.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\obj\Debug\netcoreapp3.1\QuizzProject.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\obj\Debug\netcoreapp3.1\QuizzProject.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\obj\Debug\netcoreapp3.1\QuizzProject.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\obj\Debug\netcoreapp3.1\QuizzProject.genruntimeconfig.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\bin\Debug\netcoreapp3.1\QuestonsAndAnware.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\bin\Debug\netcoreapp3.1\QuestonsAndAnware.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuizzProject\obj\Debug\netcoreapp3.1\QuizzProject.csproj.CopyComplete

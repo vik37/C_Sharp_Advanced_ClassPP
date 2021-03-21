@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y6rJSEcn5c/svzFCwjtrLXkdLk2yuv2WCk4bdSwf+lMjvqkYKzru3+pWN62Alh4xmK+TsncjguEcr0fJQBFIXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vikto\\source\\repos\\cSharpAdvanced\\Vezbi_02\\SerializeDeserialize\\SerializeDeserialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vikto\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

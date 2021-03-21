@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Del_Ev_something/1.0.0": {
+        "runtime": {
+          "Del_Ev_something.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Del_Ev_something/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

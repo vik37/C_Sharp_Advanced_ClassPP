@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\obj\Debug\netcoreapp3.1\Subsription_Model.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\obj\Debug\netcoreapp3.1\Subsription_Model.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\obj\Debug\netcoreapp3.1\Subsription_Model.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\obj\Debug\netcoreapp3.1\Subsription_Model.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\bin\Debug\netcoreapp3.1\Subsription_Model.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\bin\Debug\netcoreapp3.1\Subsription_Model.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\bin\Debug\netcoreapp3.1\Subsription_Model.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\bin\Debug\netcoreapp3.1\Subsription_Model.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\bin\Debug\netcoreapp3.1\Subsription_Model.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\bin\Debug\netcoreapp3.1\Subsription_Model.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\obj\Debug\netcoreapp3.1\Subsription_Model.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\obj\Debug\netcoreapp3.1\Subsription_Model.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Events_Delegate\Subsription_Model\obj\Debug\netcoreapp3.1\Subsription_Model.genruntimeconfig.cache

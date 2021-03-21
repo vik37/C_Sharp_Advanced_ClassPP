@@ -1,0 +1,4 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\VezbaPolimorp\VezbaPolimorp\obj\Debug\netcoreapp3.1\VezbaPolimorp.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\VezbaPolimorp\VezbaPolimorp\obj\Debug\netcoreapp3.1\VezbaPolimorp.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\VezbaPolimorp\VezbaPolimorp\obj\Debug\netcoreapp3.1\VezbaPolimorp.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\VezbaPolimorp\VezbaPolimorp\obj\Debug\netcoreapp3.1\VezbaPolimorp.csproj.CoreCompileInputs.cache

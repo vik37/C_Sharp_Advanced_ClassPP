@@ -1,0 +1,9 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuestonsAndAnware\bin\Debug\netcoreapp3.1\QuestonsAndAnware.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuestonsAndAnware\bin\Debug\netcoreapp3.1\QuestonsAndAnware.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuestonsAndAnware\bin\Debug\netcoreapp3.1\QuestonsAndAnware.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuestonsAndAnware\obj\Debug\netcoreapp3.1\QuestonsAndAnware.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuestonsAndAnware\obj\Debug\netcoreapp3.1\QuestonsAndAnware.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuestonsAndAnware\obj\Debug\netcoreapp3.1\QuestonsAndAnware.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuestonsAndAnware\obj\Debug\netcoreapp3.1\QuestonsAndAnware.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuestonsAndAnware\obj\Debug\netcoreapp3.1\QuestonsAndAnware.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\QuizzApp\QuestonsAndAnware\obj\Debug\netcoreapp3.1\QuestonsAndAnware.pdb

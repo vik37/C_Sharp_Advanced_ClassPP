@@ -1,0 +1,10 @@
+[ERROR]: Invalid user
+[TIMESTAMP]: 6/30/2020 8:54:49 PM
+[USER]: unknown user
+[MESSAGE]: Invalid credentials.
+---------------------------------
+[ERROR]: Invalid user
+[TIMESTAMP]: 6/30/2020 8:56:05 PM
+[USER]: unknown user
+[MESSAGE]: Invalid credentials.
+---------------------------------

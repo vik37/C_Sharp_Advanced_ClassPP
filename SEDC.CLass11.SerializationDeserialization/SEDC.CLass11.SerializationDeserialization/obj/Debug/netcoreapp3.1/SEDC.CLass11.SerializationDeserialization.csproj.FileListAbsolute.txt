@@ -1,0 +1,15 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\bin\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\bin\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\bin\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\bin\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\bin\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\bin\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\obj\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\obj\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\obj\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\obj\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\obj\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\obj\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.genruntimeconfig.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\obj\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.CLass11.SerializationDeserialization\SEDC.CLass11.SerializationDeserialization\obj\Debug\netcoreapp3.1\SEDC.CLass11.SerializationDeserialization.csproj.CopyComplete

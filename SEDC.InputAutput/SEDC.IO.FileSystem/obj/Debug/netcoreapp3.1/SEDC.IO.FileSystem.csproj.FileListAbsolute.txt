@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\bin\Debug\netcoreapp3.1\SEDC.IO.FileSystem.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\bin\Debug\netcoreapp3.1\SEDC.IO.FileSystem.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\bin\Debug\netcoreapp3.1\SEDC.IO.FileSystem.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\bin\Debug\netcoreapp3.1\SEDC.IO.FileSystem.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\bin\Debug\netcoreapp3.1\SEDC.IO.FileSystem.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\bin\Debug\netcoreapp3.1\SEDC.IO.FileSystem.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\obj\Debug\netcoreapp3.1\SEDC.IO.FileSystem.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\obj\Debug\netcoreapp3.1\SEDC.IO.FileSystem.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\obj\Debug\netcoreapp3.1\SEDC.IO.FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\obj\Debug\netcoreapp3.1\SEDC.IO.FileSystem.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\obj\Debug\netcoreapp3.1\SEDC.IO.FileSystem.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\SEDC.InputAutput\SEDC.IO.FileSystem\obj\Debug\netcoreapp3.1\SEDC.IO.FileSystem.genruntimeconfig.cache

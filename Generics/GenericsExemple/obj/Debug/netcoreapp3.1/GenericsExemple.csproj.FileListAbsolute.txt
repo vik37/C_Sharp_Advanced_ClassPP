@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\bin\Debug\netcoreapp3.1\GenericsExemple.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\bin\Debug\netcoreapp3.1\GenericsExemple.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\bin\Debug\netcoreapp3.1\GenericsExemple.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\bin\Debug\netcoreapp3.1\GenericsExemple.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\bin\Debug\netcoreapp3.1\GenericsExemple.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\bin\Debug\netcoreapp3.1\GenericsExemple.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\obj\Debug\netcoreapp3.1\GenericsExemple.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\obj\Debug\netcoreapp3.1\GenericsExemple.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\obj\Debug\netcoreapp3.1\GenericsExemple.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\obj\Debug\netcoreapp3.1\GenericsExemple.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\obj\Debug\netcoreapp3.1\GenericsExemple.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\obj\Debug\netcoreapp3.1\GenericsExemple.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Generics\GenericsExemple\obj\Debug\netcoreapp3.1\GenericsExemple.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\bin\Debug\netcoreapp3.1\Delegate_Two.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\bin\Debug\netcoreapp3.1\Delegate_Two.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\bin\Debug\netcoreapp3.1\Delegate_Two.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\bin\Debug\netcoreapp3.1\Delegate_Two.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\bin\Debug\netcoreapp3.1\Delegate_Two.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\bin\Debug\netcoreapp3.1\Delegate_Two.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\obj\Debug\netcoreapp3.1\Delegate_Two.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\obj\Debug\netcoreapp3.1\Delegate_Two.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\obj\Debug\netcoreapp3.1\Delegate_Two.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\obj\Debug\netcoreapp3.1\Delegate_Two.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\obj\Debug\netcoreapp3.1\Delegate_Two.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\obj\Debug\netcoreapp3.1\Delegate_Two.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\Delegate_Exercise\Delegate_Two\obj\Debug\netcoreapp3.1\Delegate_Two.genruntimeconfig.cache

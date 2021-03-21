@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QuizzProject/1.0.0": {
+        "dependencies": {
+          "QuestonsAndAnware": "1.0.0"
+        },
+        "runtime": {
+          "QuizzProject.dll": {}
+        }
+      },
+      "QuestonsAndAnware/1.0.0": {
+        "runtime": {
+          "QuestonsAndAnware.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuizzProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuestonsAndAnware/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

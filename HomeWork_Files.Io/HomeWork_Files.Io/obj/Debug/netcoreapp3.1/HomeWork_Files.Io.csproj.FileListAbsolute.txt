@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\bin\Debug\netcoreapp3.1\HomeWork_Files.Io.exe
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\bin\Debug\netcoreapp3.1\HomeWork_Files.Io.deps.json
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\bin\Debug\netcoreapp3.1\HomeWork_Files.Io.runtimeconfig.json
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\bin\Debug\netcoreapp3.1\HomeWork_Files.Io.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\bin\Debug\netcoreapp3.1\HomeWork_Files.Io.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\bin\Debug\netcoreapp3.1\HomeWork_Files.Io.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\obj\Debug\netcoreapp3.1\HomeWork_Files.Io.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\obj\Debug\netcoreapp3.1\HomeWork_Files.Io.AssemblyInfo.cs
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\obj\Debug\netcoreapp3.1\HomeWork_Files.Io.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\obj\Debug\netcoreapp3.1\HomeWork_Files.Io.dll
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\obj\Debug\netcoreapp3.1\HomeWork_Files.Io.pdb
+C:\Users\vikto\source\repos\cSharpAdvanced\HomeWork_Files.Io\HomeWork_Files.Io\obj\Debug\netcoreapp3.1\HomeWork_Files.Io.genruntimeconfig.cache
